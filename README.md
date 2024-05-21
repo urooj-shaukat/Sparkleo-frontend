@@ -33,7 +33,7 @@ npm run dev
 
 The application will start and be accessible at [http://localhost:5173/](http://localhost:5173/).
 
-Video can be see by downloading it on clicking "view raw".
+
 
 
 ## Technologies Used
@@ -42,4 +42,4 @@ Video can be see by downloading it on clicking "view raw".
 - **React**: A JavaScript library for building user interfaces.
 - **Material-UI**: A popular React UI framework for designing responsive and customizable components.
 
-
+##Video can be see by downloading it on clicking "view raw".
